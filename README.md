@@ -17,5 +17,5 @@ Hi there! I'm Junaid Qureshi, a passionate software engineering student at Polyt
 ## Projects
 
 - [Voxel wars] https://www.roblox.com/games/10097727988/Voxel-Wars: A Roblox game I made for a client, with the main gimmick being destrutible environement.
-- [Automated dynamic basket ball hoop](link to project repository or live demo): A basket ball hoop that follows a thrown ball. 
+- [Automated dynamic basket ball hoop] https://github.com/Juqur/Autohoop/tree/main#overview: A basket ball hoop that follows a thrown ball. 
 
